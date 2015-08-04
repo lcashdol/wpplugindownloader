@@ -1,3 +1,5 @@
+Just use svn co https://plugins.svn.wordpress.org/
+
 wpplugindownloader
 ==================
 
