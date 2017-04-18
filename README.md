@@ -1,4 +1,4 @@
-Just use svn co https://plugins.svn.wordpress.org/
+You can get an index with the command: svn co https://plugins.svn.wordpress.org/
 
 wpplugindownloader
 ==================
