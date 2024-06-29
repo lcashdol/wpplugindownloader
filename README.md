@@ -1,4 +1,4 @@
-You can get an index with the command: svn co https://plugins.svn.wordpress.org/
+You can download plugins with the command: svn co https://plugins.svn.wordpress.org/  This tool is EOL.
 
 wpplugindownloader
 ==================
